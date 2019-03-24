@@ -1,1 +1,5 @@
-hello World!
+#!/bin/bash
+# hello World!
+
+echo "Hello Vasya!"
+
